@@ -42,11 +42,7 @@ if ( !class_exists( 'Block' ) ) {
 
         public function addMetaBoxes() {
             /// definitions for blocks
-<<<<<<< HEAD
             include 'cmb-defs/cmb-block.php';
-=======
-            include 'cmb_defs/cmb_block.php';
->>>>>>> 8607155605b71031f642738b527bb89b3037455c
         }
         public function columns( $columns ) {
             return $columns;

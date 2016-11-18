@@ -18,8 +18,9 @@ if ( !class_exists( 'AjwCustomContentTypes' ) ) {
 
       $dir = plugin_dir_path( __FILE__ );
 
-      require_once ( $dir . "/custom_post_types/page.php" );
-      $Page = new Page();
+      require_once ( $dir . "/custom_post_types/block.php" );
+
+      $Block = new Block();
 
     } 
 

@@ -14,4 +14,5 @@ Structure for custom posts types in Wordpress
 
 ## How to use
 
+- This example repo includes a content type called 'Block'. To create others you just copy and rename the definitions.
 - Whatever custom content types / cmb2 you have defined will appear in admin area of wordpress

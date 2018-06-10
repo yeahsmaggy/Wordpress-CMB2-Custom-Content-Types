@@ -10,7 +10,7 @@ Structure for custom posts types in Wordpress
 ## How to install
 
 - clone this repo into plugins directory
-- admin the plugin in wordpress admin
+- enable the plugin in wordpress admin
 
 ## How to use
 
